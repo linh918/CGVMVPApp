@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nested_scroll_view_padding">4dp</dimen>
+    <dimen name="toobar.height">48dp</dimen>
+    <dimen name="tablayout.height">48dp</dimen>
+    <dimen name="cardview.margin.top">6dp</dimen>
+    <dimen name="textview.toolbar.margin.left">16dp</dimen>
+    <dimen name="textview.toolbar.textsize">16sp</dimen>
+    <dimen name="textview.textsize.body" >14sp</dimen>
+    <dimen name="recyclerview.margin.top">45dp</dimen>
+    <dimen name="button.width.tat_ca">60dp</dimen>
+    <dimen name="button.height.tat_ca">20dp</dimen>
+    <dimen name="button.textsize.body">14sp</dimen>
+    <dimen name="button.margin.right">16dp</dimen>
+    <dimen name="imageview.height.tin_hot">80dp</dimen>
+    <dimen name="textview.height.tin_hot">80dp</dimen>
+    <dimen name="imageview.margin.left.tin_hot">6dp</dimen>
+    <dimen name="imageview.margin.bottom.tin_hot">6dp</dimen>
+    <dimen name="textview.margin.top.tin_hot">6dp</dimen>
+    <dimen name="linearlayout.margin.top">6dp</dimen>
+    <dimen name="relativelayout.padding">16dp</dimen>
+    <dimen name="viewpager.height">300dp</dimen>
+    <dimen name="framlayout.padding.film">16dp</dimen>
+    <dimen name="imageview.margin.right.toggle">16dp</dimen>
+    <dimen name="linearlayout.padding">16dp</dimen>
+    <dimen name="linearlayout.padding.right">40dp</dimen>
+    <dimen name="view.margin">16dp</dimen>
+    <dimen name="tablayout.textsize">34sp</dimen>
+    <dimen name="textview.textsize.smallbody">12sp</dimen>
+    <dimen name="edittext.margin">0.5dp</dimen>
+    <dimen name="button.margin">16dp</dimen>
+    <dimen name="textview.margin">16dp</dimen>
+    <dimen name="textview.margin.thoi_luong">6dp</dimen>
+    <dimen name="relativelayout.margin">16dp</dimen>
+    <dimen name="relativelayout.padding.left.phim">32dp</dimen>
+    <dimen name="relativelayout.padding.right.phim">32dp</dimen>
+    <dimen name="relativelayout.padding.top.phim">8dp</dimen>
+    <dimen name="relativelayout.padding.bottom.phim">8dp</dimen>
+    <dimen name="textview.padding">6dp</dimen>
+    <dimen name="viewpager.padding">16dp</dimen>
+    <dimen name="viewpager.margin.top">16dp</dimen>
+</resources>

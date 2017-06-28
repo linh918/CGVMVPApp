@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CGVApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment Sap chieu</string>
+    <string name="textview.text.tin_hot">Tin hot</string>
+    <string name="button.text.tat_ca">Tất cả</string>
+    <string name="textview.text.dang_nhap">Đăng nhập</string>
+    <string name="textview.text.dat_ve_theo_phim">Đặt vé theo phim</string>
+    <string name="textview.text.dat_ve_theo_rap">Đặt vé theo rạp</string>
+    <string name="textview.text.trang_chu">Trang chủ</string>
+    <string name="textview.text.than_vien_cgv">Thành viên CGV</string>
+    <string name="textview.text.rap_cgv">Rạp CGV</string>
+    <string name="textview.text.dac_trung_cgv">Đặc trưng CGV</string>
+    <string name="textview.text.tin_moi_uu_dai">Tin mới ưu đãi</string>
+    <string name="textview.text.photo_ticket">Phototicket</string>
+    <string name="edittext.hint.email">Email hoặc Tên đăng nhập</string>
+    <string name="edittext.hint.mat_khau">Mật khẩu</string>
+    <string name="button.text.dang_nhap">Đăng nhập</string>
+    <string name="button.text.dang_ky_face_book">Đăng ký bằng Facebook</string>
+    <string name="textview.text.hoac">hoặc</string>
+    <string name="textview.text.dang_ki_tai_khoan">Đăng ký tài khoản CGV</string>
+    <string name="textview.text.quen_mat_khau">Quên mật khẩu</string>
+    <string name="textview.text.dat_ve_phim_nay">Đặt vé phim này</string>
+    <string name="button.text.dat_ve">Đặt vé</string>
+    <string name="textview.text.noidung">"Wonder Woman hứa hẹn sẽ tạo nên một cơn địa chấn tại khắp các phòng vé trong mùa hè năm nay với sự trở lại của Gal Gadot trong vai nữ nhân vật chính của bộ phim hoành tráng này. Trước khi trở thành Wonder Woman, nữ anh hùng của chúng ta đã từng là công chúa Diana của xứ Amazons, sinh ra và lớn lên tại một hòn đảo thiên đường và được huấn luyện để trở thành một chiến binh bất khả chiến bại</string>
+    <string name="texview.text.kiem_duyet">Kiểm duyệt</string>
+    <string name="texview.text.khoi_chieu">Khởi chiếu</string>
+    <string name="texview.text.the_loai">Thể loại</string>
+    <string name="texview.text.dao_dien">Đạo diễn</string>
+    <string name="texview.text.thoi_luong">Thời lượng</string>
+
+</resources>
